@@ -1,0 +1,17 @@
+.card {
+    background-color: aliceblue;
+    color: black;
+    width: 20%;
+    height: auto;
+    outline: 7px dotted yellow;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+}
+
+img {
+    width: 150px;
+    height: 225px;
+}
